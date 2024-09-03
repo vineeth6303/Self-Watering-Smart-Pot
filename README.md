@@ -1,5 +1,7 @@
 # Self-Watering-Smart-Pot
-Sometimes when we go out of our home for a few days. In this case, we cant give water to our favorite plants or we are busy with other works, so we forget to give water to our plants. Most of the time, we nearly forget about our plants in the mentioned cases. It’s hard to keep our plants alive. Because most of the indoor plants require regular watering. Here I came up with a simple solution. This is just awesome for lazy and busy people like me. My solution is a Self Watering Pot. Any normal pot can be converted into a smart pot. With smart pots, we can make our plants healthy and happy. This Self watering Pot is being made up of NodeMCU ESP8266. 
+Sometimes when we go out of our home for a few days. In this case, we cant give water to our favorite plants or we are busy with other works, so we forget to give water to our plants. Most of the time, we nearly forget about our plants in the mentioned cases. It’s hard to keep our plants alive. Because most of the indoor plants require regular watering. Here I came up with a simple solution. This is just awesome for lazy and busy people like me. My solution is a Self Watering Pot. Any normal pot can be converted into a smart pot. With smart pots, we can make our plants healthy and happy. This Self watering Pot is being made up of NodeMCU 
+![Self-Watering-Smart-Pot](https://github.com/user-attachments/assets/cf74c26d-4b24-4b37-9816-c073cc81a9f2)
+ESP8266. 
 
 # Self Watering Smart Pot Features : 
 
